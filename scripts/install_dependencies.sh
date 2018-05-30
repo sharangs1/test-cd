@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo yum install -y httpd24
+sudo yum install -y httpd24 git
